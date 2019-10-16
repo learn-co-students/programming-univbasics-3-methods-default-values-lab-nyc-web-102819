@@ -3,7 +3,7 @@ meal = "What a nutritious meal!"
 order = "A plate of #{protein} with #{veggie} and #{starch}."
 puts meal 
 puts order
-order
+return order
 end
 
 
